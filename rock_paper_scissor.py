@@ -1,3 +1,4 @@
+"""rock papper scissor"""
 import random
 def g_computer_choice():
     return random.choice(['rock','paper','scissors'])

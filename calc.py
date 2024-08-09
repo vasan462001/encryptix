@@ -1,3 +1,4 @@
+"""calculator aplication"""
 print("choose an opeartion")
 print("1.Add")
 print("2.substraction")
